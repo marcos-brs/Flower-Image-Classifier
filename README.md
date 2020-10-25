@@ -1,7 +1,6 @@
 
 <h1 align="center">Bem-vindo ao Flower Image Classifier 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/beta-v0.1-green?cacheSeconds=2592000" />
   <a href="LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
   </a>
