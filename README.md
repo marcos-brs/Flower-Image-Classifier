@@ -8,7 +8,7 @@
 
 > Esse repositório possui uma aplicação de Deep Learning para classificar flores. Foi usado a CNN VGG16 como modelo para Transfer Learning.
 
-## Requerimentos
+## Dependências
 
 - [x] [Python3](https://www.python.org/downloads/) (recomendamos usar o [Anaconda](https://www.anaconda.com/))
 - [x] [Jupyter Notebook](https://jupyter.org/)
